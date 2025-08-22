@@ -42,7 +42,8 @@ Coloque aqui as informações de redes sociais:
   <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" width="60" style="margin: 5px;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="60" style="margin: 5px;">
-  ![Anime na chuva](https://media.giphy.com/media/v1.Y2lkPTc5MGIyZDRkYWg4MWU5cGx0MnJjOWdzZTVxNG5mdDJoMWxicmQ2Z3k1N25kYm9idCZlcD12MV9pbnRlcm5hbF9naWZfY2F0cyZjdD1n/sTzAXLbAnZ5NvpHd6m/giphy.gif)
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGIyZDRkYWg4MWU5cGx0MnJjOWdzZTVxNG5mdDJoMWxicmQ2Z3k1N25kYm9idCZlcD12MV9pbnRlcm5hbF9naWZfY2F0cyZjdD1n/sTzAXLbAnZ5NvpHd6m/giphy.gif" width="600" style="margin: 50px;">
+
 
 
 </div>
