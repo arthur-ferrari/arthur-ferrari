@@ -1,4 +1,4 @@
-# Sobre Mim <img src="https://br.pinterest.com/pin/274508539768080133/" alt="Anime na chuva" width="5%">
+# Sobre Mim <img src="https://tenor.com/pt-BR/view/mudkip-pokemon-rotate-spin-3d-gif-10014221000379047613.gif" alt="mud" width="5%">
 
 
 Olá! Meu nome é Arthur Ferrari e eu sou um programador iniciante.
