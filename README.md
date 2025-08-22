@@ -1,4 +1,4 @@
-# Sobre Mim <img src="https://tenor.com/pt-BR/view/spin-anime-girl-spinning-gif-25285536.gif" alt="mud" width="5%">
+# Sobre Mim <img src="https://tenor.com/pt-BR/view/crow-with-knife-caw-cro-cawcaw-crow-gif-9013640733864673921.gif" alt="cacaw" width="5%">
 
 
 Olá! Meu nome é Arthur Ferrari e eu sou um programador iniciante.
