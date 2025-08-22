@@ -1,4 +1,5 @@
-# Sobre Mim
+# Sobre Mim <img src="https://br.pinterest.com/pin/274508539768080133/" alt="Anime na chuva" width="5%">
+
 
 Olá! Meu nome é Arthur Ferrari e eu sou um programador iniciante.
 
